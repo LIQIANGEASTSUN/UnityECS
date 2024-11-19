@@ -5,6 +5,8 @@ Project/Temp/*
 Project/.vs/*
 Project/Logs/*
 
+APK/*
+EXE/*
 
 *.csproj
 

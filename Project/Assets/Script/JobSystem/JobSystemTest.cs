@@ -1,6 +1,7 @@
 using UnityEngine;
 using Unity.Jobs;
 using Unity.Collections;
+using Unity.Burst;
 
 public class JobSystemTest : MonoBehaviour
 {
